@@ -1,10 +1,15 @@
 Simple Survey Server
 ====================
 
-Simple "Surevey Server" demo based on Lowdb JSON file database
+Simple "Survey Server" demo. Shows how to use save surveys on a server using a simple JSON file database.
 
-Many thanks / based on:
-- https://glitch.com/~low-db
-- https://github.com/typicode/lowdb
+**Source Code at Github:**
+👀 [github.com/b-g/simple-survey-server](https://github.com/b-g/simple-survey-server)
 
-Remix Project at Glitch.com:
+**Remix Project at Glitch:**
+👉 [simple-survey-server.glitch.me](https://simple-survey-server.glitch.me)
+
+**Many thanks / based on:**
+- [glitch.com/~low-db](https://glitch.com/~low-db)
+- [github.com/typicode/lowdb](https://github.com/typicode/lowdb)
+
