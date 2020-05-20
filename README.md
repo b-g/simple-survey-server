@@ -13,7 +13,7 @@ Source Code at Github:
 
 This is the easiest and therefore recommended way.
 
-1. Just open the project on 👉[simple-survey-server.glitch.me](https://simple-survey-server.glitch.me)
+1. Just open the project on 👉 [simple-survey-server.glitch.me](https://simple-survey-server.glitch.me)
 
 2. Make a copy of the project by selecting "Remix on Glitch" in the menu.
 
