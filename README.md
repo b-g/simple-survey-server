@@ -1,7 +1,7 @@
 Simple Survey Server
 ====================
 
-Simple "Survey Server" demo. Shows how to use save surveys on a server using a simple JSON file database.
+Simple "Survey Server" demo. Shows how to save surveys on a server using a simple JSON file database.
 
 **Source Code at Github:**
 👀 [github.com/b-g/simple-survey-server](https://github.com/b-g/simple-survey-server)
