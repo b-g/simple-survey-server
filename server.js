@@ -4,7 +4,7 @@ const bodyParser = require('body-parser');
 // setup webserver
 const app = express();
 const server = app.listen(process.env.PORT || 3000, () => {
-  console.log(`Listening on port: ${server.address().port}`);
+  console.log(`Listening on: localhost:${server.address().port}`);
 });
 app.use(express.static('public'));
 app.use(bodyParser.json());
