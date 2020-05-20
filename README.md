@@ -13,7 +13,7 @@ Source Code at Github:
 
 This is the easiest and therefore recommended way.
 
-1. Just open the project on [simple-survey-server.glitch.me](https://simple-survey-server.glitch.me)
+1. Just open the project on 👉[simple-survey-server.glitch.me](https://simple-survey-server.glitch.me)
 
 2. Make a copy of the project by selecting "Remix on Glitch" in the menu.
 
@@ -30,7 +30,7 @@ This is the easiest and therefore recommended way.
 4. Open "localost:3000" in your browser
 
 
-## Many thanks / based on:
+## Many thanks / based on
 
 - [glitch.com/~low-db](https://glitch.com/~low-db)
 - [github.com/typicode/lowdb](https://github.com/typicode/lowdb)
